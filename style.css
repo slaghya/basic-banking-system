@@ -1,0 +1,22 @@
+
+h1
+{
+	padding:23px;
+	padding-left: 30px;
+	background-color: rgb(176,196,222);
+	font-style:fantasy;
+}
+img
+{
+	
+	width:1600px;
+	height:600px;
+
+}
+a[href]
+{
+   color:white;
+   font-size:20px;
+   margin-right:40px;
+}
+
